@@ -1,17 +1,26 @@
+<div align="center">
+
 # 💫 About Me
 
+### 🎓 Final Year AI Student @ **King's College London**
 
+<p>
+<b>🛡️ Focus:</b> Agentic AI initiatives &nbsp;|&nbsp; 
+<b>🤝 Building:</b> GenAI, RAG, Local AI
+</p>
 
-🎓 Final Year AI Student @ **King's College London**
+<p><i>⚡ Fun fact: I've lived in 4 countries across 4 continents 🌍</i></p>
 
-* **🛡️ Focus Areas:** **Agentic AI** initiatives
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moumen-younes/)
 
-* **🤝 Collaboration:**: **GenAI**, **RAG**, & **Local AI** projects
+---
 
-* **⚡ Fun fact:** I've lived in 4 countries across 4 continents 🌍
+### 🚀 Cursor year wrapped
 
+<img src="cursor-2025.png" width="400" alt="Cursor Stats">
 
+<br>
 
-## 🌐 Socials:
+<img src="cursor-2025-models.png" width="100%" alt="Model Usage Graph">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moumen-younes/)
+</div>
