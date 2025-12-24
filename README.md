@@ -31,7 +31,7 @@ I've lived in 4 countries across 4 continents 🌍
 </table>
 <br>
 <div align="center">
-<h3>🚀 Code Velocity & Model Usage</h3>
+<h3>🚀 Cursor Wrapped 2025</h3>
 <img src="cursor-2025-models.png" width="100%" alt="Model Trajectory">
-<p><i>Tracking the shift in model preference throughout 2025</i></p>
+<p><i>Trying to show I do code lol, I'd like to thank the GPUs that died for this graph🫡</i></p>
 </div>
