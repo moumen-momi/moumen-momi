@@ -7,12 +7,9 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-<h2>👨‍💻 The Stack</h2>
+<h2>👨‍💻</h2>
 <b>🛡️ Focus Areas:</b><br>
 Agentic AI initiatives & Autonomous Systems
-<br><br>
-<b>🤝 Collaboration:</b><br>
-GenAI, RAG, & Local AI projects
 <br><br>
 <b>⚡ Fun fact:</b><br>
 I've lived in 4 countries across 4 continents 🌍
@@ -33,5 +30,5 @@ I've lived in 4 countries across 4 continents 🌍
 <div align="center">
 <h3>🚀 Cursor Wrapped 2025</h3>
 <img src="cursor-2025-models.png" width="100%" alt="Model Trajectory">
-<p><i>I'd like to thank the GPUs that died for this graph🫡</i></p>
+<p><i>It's the intution all that usage builds what I find greatly valuable building and designing systems. Currently I am mainly on Claude Code more, going through millions of tokens a day</i></p>
 </div>
