@@ -9,7 +9,7 @@
 <td width="60%" valign="top">
 <h2>👨‍💻</h2>
 <b>🛡️ Focus Areas:</b><br>
-Agentic AI initiatives & Autonomous Systems
+Agentic AI initiatives & Autonomous Systems + Video and Content Understanding
 <br><br>
 <b>⚡ Fun fact:</b><br>
 I've lived in 4 countries across 4 continents 🌍
