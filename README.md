@@ -30,5 +30,5 @@ I've lived in 4 countries across 4 continents 🌍
 <div align="center">
 <h3>🚀 Cursor Wrapped 2025</h3>
 <img src="cursor-2025-models.png" width="100%" alt="Model Trajectory">
-<p><i>It's the intution all that usage builds what I find greatly valuable building and designing systems. Currently I am mainly on Claude Code more, going through millions of tokens a day</i></p>
+<p><i>It's the intution all that usage builds is what I find immensely valuable for building and designing AI systems. Currently I am mainly on Claude Code more, going through millions of tokens a day</i></p>
 </div>
